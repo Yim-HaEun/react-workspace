@@ -7,7 +7,10 @@ import reportWebVitals from './reportWebVitals';
 //import ToggleButton from './js/ToggleButton';
 //import IndexExample from './js/IndexExample';
 //import ImageChange from './js/ImageChange';
-import ObjectExample from './js/ObjectExample';
+//import ObjectExample from './js/ObjectExample';
+//import Animal from './js/Animal';
+//import TimerCount from './js/TimerCount';
+import PracticeOne from './js/PracticeOne';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
@@ -17,7 +20,10 @@ root.render(
     {/*<ToggleButton/>*/}
     {/*<IndexExample/>*/}
     {/*<ImageChange/>*/}
-    <ObjectExample/>
+    {/*<ObjectExample/>*/}
+    {/*<Animal/>*/}
+    {/*<TimerCount/>*/}
+    <PracticeOne/>
 
    
   </React.StrictMode>
