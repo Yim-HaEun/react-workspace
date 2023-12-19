@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+h2 {
+  color: #333;
+}
+
+input {
+  margin-right: 8px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  width: 400px;
+  margin: 8px 0;
+  padding: 8px;
+  border: 1px solid #ccc;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  background-color: #ffcdcd;
+  color: rgb(255, 59, 134);
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #ffbbbb;
+}

@@ -10,7 +10,9 @@ import reportWebVitals from './reportWebVitals';
 //import ObjectExample from './js/ObjectExample';
 //import Animal from './js/Animal';
 //import TimerCount from './js/TimerCount';
-import PracticeOne from './js/PracticeOne';
+//import PracticeOne from './js/PracticeOne';
+//import ExampleCallBack from './js/ExampleCallBack';
+import PracticeTwo from './js/PracticeTwo';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
@@ -23,7 +25,9 @@ root.render(
     {/*<ObjectExample/>*/}
     {/*<Animal/>*/}
     {/*<TimerCount/>*/}
-    <PracticeOne/>
+    {/*<PracticeOne/>*/}
+    {/*<ExampleCallBack/>*/}
+    <PracticeTwo/>
 
    
   </React.StrictMode>
